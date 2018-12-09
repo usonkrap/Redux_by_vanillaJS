@@ -1,0 +1,14 @@
+{
+  "name": "vanillajs_redux",
+  "version": "1.0.0",
+  "description": "redux practice",
+  "main": "index.js",
+  "author": "usonkrap",
+  "license": "MIT",
+  "dependencies": {
+    "redux": "^4.0.1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.10.3"
+  }
+}
